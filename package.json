@@ -1,0 +1,7 @@
+{
+	"name": "chuisy-analytics",
+	"version": "0.0.0",
+	"dependencies": {
+		"cube": "0.2.8"
+	}
+}
